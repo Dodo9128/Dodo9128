@@ -19,7 +19,7 @@ TypeScript, Nest.JS, TypeORM, etc..
 * * *
 ## GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats-jekyung-min.vercel.app/api?username=dodo9128&show_icons=true&theme=dracula&count_private=true&hide=contribs,prs,stars,issues&hide_border,)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodo9128&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages
 
