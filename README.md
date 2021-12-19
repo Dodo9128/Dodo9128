@@ -23,7 +23,7 @@
 
 **Studying..**    
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?style=flat-square&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white">
 
 
 * * *
