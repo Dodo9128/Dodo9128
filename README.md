@@ -35,3 +35,15 @@
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats-jekyung-min.vercel.app/api/top-langs/?username=dodo9128&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+* * *
+#### My Github Pet . . .
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Dodo9128?pet-id=585746322114835286"
+    width="600"
+    height="120"
+  />
+</a>
