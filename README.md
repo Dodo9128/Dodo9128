@@ -41,9 +41,9 @@
 #### My Github Pet . . .
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Dodo9128?pet-id=585750417487776379"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/Dodo9128"
+  width="600"
+  height="300"
+/>
 </a>
