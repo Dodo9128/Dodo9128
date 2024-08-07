@@ -30,7 +30,7 @@
 * * *
 ## GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodo9128&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodo9128&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages
 
